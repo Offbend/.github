@@ -1,30 +1,28 @@
-OFFBEND Studios
+# OFFBEND Studios
 
-Innovating Entertainment. Empowering Creatives.
+> **Innovating Entertainment. Empowering Creatives.**
 
-Who We Are
+---
+
+## Who We Are
 
 OFFBEND Studios is an independent film production company based in Dallas, Texas. Founded in 2024, our mission is to create bold, dynamic storytelling that resonates with audiences worldwide. We champion original ideas, collaborate with visionary talent, and push the boundaries of genre.
 
-What We Do
+## What We Do
 
-Feature Films: Developing and producing high-impact projects, including our flagship film High Stakes.
+* **Feature Films:** Developing and producing high-impact projects, including our flagship film **High Stakes**.
+* **Creative Partnerships:** Working with emerging and established filmmakers, writers, and artists to bring unique voices to the screen.
+* **Innovation through Collaboration:** Investing in new storytelling techniques and fostering a community where creativity and technology converge.
 
-Creative Partnerships: Working with emerging and established filmmakers, writers, and artists to bring unique voices to the screen.
-
-Innovation through Collaboration: Investing in new storytelling techniques and fostering a community where creativity and technology converge.
-
-Get in Touch
+## Get in Touch
 
 For general inquiries, press, or collaboration opportunities:
 
-Website: offbendstudios.com
+* **Website:** [offbendstudios.com](https://offbendstudios.com)
+* **Email:** [info@offbendstudios.com](mailto:info@offbendstudios.com)
+* **Discord:** [discord.gg/offbend](https://discord.gg/offbend)
+* **Twitter:** [@OffbendStudio](https://twitter.com/OffbendStudio)
 
-Email: info@offbendstudios.com
+---
 
-Discord: discord.gg/offbend
-
-Twitter: @OffbendStudio
-
-Join us on our journey to redefine entertainment—one story at a time.
-
+> Join us on our journey to redefine entertainment—one story at a time.
