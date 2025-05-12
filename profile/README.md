@@ -1,61 +1,30 @@
-# OFFBEND Studios
+OFFBEND Studios
 
-> **Innovating Entertainment. Empowering Creatives.**
+Innovating Entertainment. Empowering Creatives.
 
----
+Who We Are
 
-## 🚀 About OFFBEND
+OFFBEND Studios is an independent film production company based in Dallas, Texas. Founded in 2024, our mission is to create bold, dynamic storytelling that resonates with audiences worldwide. We champion original ideas, collaborate with visionary talent, and push the boundaries of genre.
 
-OFFBEND Studios is a tech-enabled film production company reshaping modern storytelling. We combine innovative technology, data-driven insights, and cinematic craftsmanship to develop and produce premium content—from feature films like **High Stakes** to proprietary tools such as **Scene** and **Via**.
+What We Do
 
-* **Founded:** 2024
-* **Headquarters:** Dallas, Texas
-* **Mission:** Build a forward-thinking studio that empowers creatives and delivers impactful entertainment experiences.
+Feature Films: Developing and producing high-impact projects, including our flagship film High Stakes.
 
----
+Creative Partnerships: Working with emerging and established filmmakers, writers, and artists to bring unique voices to the screen.
 
-## 🔭 Spotlight Projects
+Innovation through Collaboration: Investing in new storytelling techniques and fostering a community where creativity and technology converge.
 
-|         Project | Overview                                                                   | Repository                                            |
-| --------------: | :------------------------------------------------------------------------- | :---------------------------------------------------- |
-| **High Stakes** | A genre-blending thriller-comedy feature film (in production).             | [high-stakes](https://github.com/Offbend/high-stakes) |            |
+Get in Touch
 
-*Explore more projects on our [organization page](https://github.com/Offbend).*
+For general inquiries, press, or collaboration opportunities:
 
----
+Website: offbendstudios.com
 
-## 🛠️ Technology & Standards
+Email: info@offbendstudios.com
 
-* **Backend:** Node.js, TypeScript, Supabase, PostgreSQL
-* **Frontend:** React Native (Expo), React for Web
-* **Data & AI:** Python, Pandas, PyTorch, OpenAI API
-* **Infrastructure:** Docker, GitHub Actions, Vercel
+Discord: discord.gg/offbend
 
-**Development Practices:**
+Twitter: @OffbendStudio
 
-* Branch structure for internal workflows: `feature/`, `bugfix/`, `release/`
-* Commit messaging aligned with Conventional Commits
-* Linting & formatting via Prettier, ESLint (JS/TS), Black, Flake8 (Python)
+Join us on our journey to redefine entertainment—one story at a time.
 
----
-
-## 📚 Documentation & Internal Resources
-
-* **API References**: Hosted internally on our company portal.
-
----
-
-## 📬 Contact & Partnerships
-
-For inquiries, collaborations, or media requests, reach out to our team:
-
-* **Website:** [https://offbendstudios.com](https://offbendstudios.com)
-* **General Inquiries:** [team@offbend.com](mailto:team@offbendstudios.com)
-* **Official Discord:** [discord.gg/offbend](https://discord.gg/offbend)
-* **Twitter:** [@OffbendStudio](https://twitter.com/OffbendStudio)
-
-Stay connected for the latest updates as we drive the future of entertainment.
-
----
-
-> "Creativity is intelligence having fun." – Albert Einstein
