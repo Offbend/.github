@@ -18,10 +18,10 @@ OFFBEND Studios is an independent film production company based in Dallas, Texas
 
 For general inquiries, press, or collaboration opportunities:
 
-* **Website:** [offbendstudios.com](https://offbendstudios.com)
-* **Email:** [info@offbendstudios.com](mailto:info@offbendstudios.com)
+* **Website:** [offbendstudios.com](https://offbend.com)
+* **Email:** [info@offbendstudios.com](mailto:hello@offbend.com)
 * **Discord:** [discord.gg/offbend](https://discord.gg/offbend)
-* **Twitter:** [@OffbendStudio](https://twitter.com/OffbendStudio)
+* **Twitter:** [@OffbendStudio](https://twitter.com/OffbendStudios)
 
 ---
 
